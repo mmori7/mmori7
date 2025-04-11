@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ronit Sabhaya!
+# 👋 Hi, I'm Mohit Mori!
 
 Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. I enjoy building meaningful projects, exploring innovative technologies, and collaborating with people from across the globe.
 
