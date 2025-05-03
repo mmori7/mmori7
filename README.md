@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing
 
 - Email: [mohitmori7125@gmail.com](mohitmori7125@gmail.com)
 - LinkedIn: [Mohit Mori](https://www.linkedin.com/in/mohit77/)
-- Portfolio: (Mohit-Mori)(https://mohit-mori.vercel.app/)
+- Portfolio: [Mohit-Mori](https://mohit-mori.vercel.app/)
 
 ---
 
