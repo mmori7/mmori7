@@ -15,12 +15,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning** and **Web Development**.
-- 💬 Ask me about **Python**, **Java**, or **Data Analysis**.
+- 🌱 Currently **Sophomore** at California State University - Long Beach and **Looking for internship and co-op**.
 - 👯 Looking to collaborate on open-source projects and exciting ideas.
 - 🎯 2025 Goals: Contribute to impactful open-source projects and develop personal projects.
-- 📝 I occasionally write about programming and tech on [my blog](#).
-
 ---
 
 ## 🛠️ My Skills
