@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohit77/)
 [<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />](https://mohit-mori.vercel.app)
 
-# 👋 Hi, I'm Ronitkumar Sabhaya!
+# 👋 Hi, I'm Mohit Mori!
 
 - 🏢 Aspiring Software Developer looking for internship and co-op opportunities.
 - 👨‍💻 Feel free to check out my [portfolio](https://ronitsabhaya75.github.io/Portfolio/) website!
